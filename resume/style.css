@@ -85,6 +85,11 @@ h3 {
   text display: inline;
 }
 
+li {
+  display: inline;
+  list-style-type: none;
+}
+
 h2 ul {
   font-size: 1em;
 }
