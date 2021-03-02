@@ -78,6 +78,14 @@ h3 {
   margin-left: 0;
 }
 
+.menu {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0;
+  margin-left: 0;
+  text-align: center;
+}
+
 h2 ul {
   font-size: 1em;
 }
