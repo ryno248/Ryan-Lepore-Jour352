@@ -60,10 +60,14 @@ h3 {
 }
 
 /* Job Dates Style */
-h5 {
+.date {
   font-size: 1em;
   font-weight: 400;
   font-style: italic;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  margin-right: 0;
+  margin-left: 0;
 }
 
 h2 ul {
