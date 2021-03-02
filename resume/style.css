@@ -87,6 +87,10 @@ h3 {
   list-style-type: none;
 }
 
+h2 ul {
+  font-size: 1em;
+}
+
 #degrees{
   margin-top: 5px;
   margin-bottom: 5px;
@@ -110,6 +114,9 @@ h3 {
   margin-left: 0;
 }
 
-h2 ul {
-  font-size: 1em;
+#top{
+  margin:0 auto;
+  margin-bottom: 30px;
+  width: 60%;
+  min-width: 300px;
 }
