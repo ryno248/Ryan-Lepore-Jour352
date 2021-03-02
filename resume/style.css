@@ -84,7 +84,7 @@ h3 {
   margin-right: 0;
   margin-left: 0;
   text-align: center;
-  display: inline;
+  display: inline-grid;
 }
 
 h2 ul {
