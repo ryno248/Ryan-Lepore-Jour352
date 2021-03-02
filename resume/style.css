@@ -79,10 +79,8 @@ h3 {
 }
 
 .menu {
-  margin-top: 0px;
-  margin-bottom: 0px;
-  margin-right: 0;
-  margin-left: 0;
+  padding: 0;
+  margin: 0;
   text-align: center;
   display: inline-grid;
 }
