@@ -82,13 +82,12 @@ h3 {
   padding: 0;
   margin: 0;
   text-align: center;
+  text display: inline;
   display: inline;
   list-style-type: none;
 }
 
-li {
 
-}
 
 #degrees{
   margin-top: 10px;
