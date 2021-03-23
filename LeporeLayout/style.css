@@ -16,3 +16,17 @@ h1 {
 font-family: Georgia, serif;
 font-size: 20px;
 }
+
+/* Caption Style */
+.caption {
+  font-size: 1.25em;
+  font-weight: 400;
+}
+
+/* Source Style */
+.source {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 0;
+  margin-left: 0;
+}
