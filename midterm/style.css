@@ -1,7 +1,7 @@
 #content {
   margin: 0 auto;
   width: 1300px;
-  font-family: Georgia, serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
   background-color: black;
   color: #fff;
@@ -75,4 +75,9 @@ image-orientation: center;
 padding-top: 15px;
 margin-left: 400px;
 margin-right: 60px;
+}
+
+h2{
+  font-family: Georgia, serif;
+  font-size: 20px;
 }
