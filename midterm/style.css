@@ -11,7 +11,7 @@
 
 #byline {
 font-family: Helvetica, sans-serif;
-font-size: 13px;
+font-size: 12px;
 font-style: italic;
 margin-top: 2px;
 margin-bottom: 10px;
@@ -80,6 +80,6 @@ margin-right: 60px;
 h2{
   font-family: Georgia, serif;
   font-size: 23px;
-  padding-top: 15px;
+  padding-top: 55px;
   margin-top: 30px;
 }
