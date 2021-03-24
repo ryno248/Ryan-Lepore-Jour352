@@ -36,15 +36,9 @@ font-size: 25px;
   font-size: 10px;
 }
 
-.graphic1 {
-  font-size: 13px;
-  font-weight: 900;
-  font-style: bold;
-}
-
-.graphic2 {
-  font-size: 13px;
-  font-weight: 200;
+#graphic {
+  padding-bottom: : 15px;
+  padding-top: 15px;
 }
 
 blockquote {
