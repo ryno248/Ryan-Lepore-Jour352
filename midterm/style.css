@@ -11,7 +11,7 @@
 
 #byline {
 font-family: Helvetica, sans-serif;
-font-size: 14px;
+font-size: 13px;
 font-style: italic;
 margin-top: 2px;
 margin-bottom: 10px;
@@ -42,7 +42,7 @@ font-size: 25px;
 #graphic {
   margin-top: 30px;
   margin-bottom: 30px;
-  margin-left: 60px;
+  margin-left: 160px;
   margin-right: 60px;
 }
 
