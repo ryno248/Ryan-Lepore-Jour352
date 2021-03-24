@@ -21,7 +21,7 @@ h1 {
 font-family: Georgia, serif;
 font-size: 35px;
 margin-bottom: 0px;
-border-bottom: 2px solid #ccc;
+border-bottom: 1px solid #ccc;
 }
 
 /* Caption Style */
@@ -80,6 +80,6 @@ margin-right: 60px;
 h3{
   font-family: Georgia, serif;
   font-size: 27px;
-  padding-top: 25px;
+  padding-top: 30px;
   margin-top: 25px;
 }
