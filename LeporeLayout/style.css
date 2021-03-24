@@ -48,12 +48,14 @@ font-size: 25px;
 }
 
 blockquote {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-left: 40;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 60;
+  margin-right: 60;
   color: blue;
   font-style: oblique;
   font: 16/24px normal helvetica, sans-serif;
   padding-left: 25px;
   border-right: 5px solid #ccc;
+  font-size: 50px;
 }
