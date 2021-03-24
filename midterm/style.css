@@ -39,8 +39,8 @@ font-size: 25px;
 #graphic {
   margin-top: 30px;
   margin-bottom: 30px;
-  margin-left: 60;
-  margin-right: 60;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 
 blockquote {
@@ -70,6 +70,6 @@ image-orientation: center;
 text-align: left;
 image-orientation: center;
 padding-top: 15px;
-margin-left: 60;
-margin-right: 60;
+margin-left: 300px;
+margin-right: 60px;
 }
