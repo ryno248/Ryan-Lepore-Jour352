@@ -37,7 +37,7 @@ strong {
 .sectionheader {
   font-size: 1.5em;
   text-transform: uppercase;
-  background-color: #5A33FF;
+  background-color: #4800E3;
   color: #fff;
   margin-top: 20px;
   margin-bottom: 10px;
@@ -45,6 +45,7 @@ strong {
   margin-left: 0;
   width: 100%;
   min-width: 300px;
+  padding-left: 5px;
 }
 
 /* Job Title Style */
