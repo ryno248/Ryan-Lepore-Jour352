@@ -41,13 +41,15 @@ strong {
   text-transform: uppercase;
   background-color: #4800E3;
   color: #fff;
-  margin-top: 5px;
+  margin-top: 0px;
   margin-bottom: 0px;
   margin-right: 0;
   margin-left: 0;
   width: 100%;
   min-width: 300px;
   padding-left: 5px;
+  padding-top: 3px;
+  padding-bottom: 5px;
 }
 
 /* Job Title Style */
