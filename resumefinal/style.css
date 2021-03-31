@@ -147,3 +147,10 @@ h3 {
   width: 105.45%;
   width-left: 105%
 }
+
+.row1 {
+  padding-bottom: 5px;
+  padding-top: 6px;
+  background-color: #000000;
+  color: #fff;
+}
