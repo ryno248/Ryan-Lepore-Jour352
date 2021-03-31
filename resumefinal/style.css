@@ -150,7 +150,8 @@ h3 {
 
 .row1 {
   padding-bottom: 5px;
-  padding-top: 6px;
+  padding-top: 3px;
   background-color: #000000;
   color: #fff;
+  font-size: 10px;
 }
