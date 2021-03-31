@@ -6,6 +6,8 @@ BODY {
   font-size: 1em;
   color: #444;
   font-weight: 400;
+  background-color: #000000;
+  color: #fff;
 }
 
 #resume {
