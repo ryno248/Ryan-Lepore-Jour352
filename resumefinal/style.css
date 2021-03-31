@@ -145,7 +145,8 @@ h3 {
   background-color: #000000;
   color: #fff;
   width: 105.45%;
-  width-left: 105%
+
+  margin-left: 25;
 }
 
 .row1 {
