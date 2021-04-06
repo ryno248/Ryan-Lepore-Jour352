@@ -24,13 +24,12 @@ p {
 
 .caption {
   font-size: 1em;
-  text-transform:uppercase;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
 
 h1{
   text-align: center;
-  background-color: #0000;
+  background-color: #000000;
   color: #fff;
 }
