@@ -21,10 +21,7 @@ p {
   line-height: 180%;
 }
 
-.caption {
-  font-size: 1em;
-  font-family: 'Montserrat', sans-serif;
-}
+
 
 .footer{
   text-align: center;
@@ -41,6 +38,9 @@ p {
   font-weight: 700;
 }
 
-.image {
-  text-align: center;
+#mainphoto{
+text-align: left;
+image-orientation: center;
+font-size: 1em;
+font-family: 'Montserrat', sans-serif;
 }
