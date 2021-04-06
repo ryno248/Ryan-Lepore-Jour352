@@ -2,7 +2,6 @@
 
 /* Headline Style */
 .headline {
-  font-family: 'Open Sans',arial, sans-serif;
   font-size: 3em;
   font-weight: 700;
   text-align: center;
@@ -36,7 +35,7 @@ p {
 }
 
 .chapter{
-  font-family: georgia, serif;
+  font-family: 'Montserrat', sans-serif;
   line-height: 200%;
   font-size: 2em;
   text-align: left;
