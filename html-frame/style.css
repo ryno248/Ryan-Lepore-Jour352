@@ -23,7 +23,7 @@ p {
 
 .caption {
   font-size: 1em;
-  text-align: center;
+  text-align: left;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -40,4 +40,8 @@ p {
   font-size: 1em;
   text-align: left;
   font-weight: 700;
+}
+
+.image {
+  text-align: center;
 }
