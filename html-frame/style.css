@@ -42,7 +42,20 @@ p {
 }
 
 #mainphoto{
+text-align: left;
 image-orientation: center;
-font-size: 1em;
-font-family: 'Montserrat', sans-serif;
+}
+
+.caption {
+  font-size: 6px;
+  font-weight: 400;
+}
+
+/* Source Style */
+.source {
+  margin-top: 2px;
+  margin-bottom: 25px;
+  margin-right: 0;
+  margin-left: 0;
+  font-size: 10px;
 }
