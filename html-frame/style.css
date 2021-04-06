@@ -21,3 +21,10 @@ p {
   font-family: georgia, serif;
   line-height: 180%;
 }
+
+.caption {
+  font-size: 1em;
+  text-transform:uppercase;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
