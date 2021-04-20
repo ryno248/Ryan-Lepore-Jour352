@@ -107,7 +107,7 @@
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
-<!-- Start of Line Chart -->
+<!-- Start of Charts -->
  <div id="myLineChart"></div>
 
      <!-- c3 script-->
@@ -126,36 +126,34 @@
         pattern: ['#2a8dc5', '#455380', '#ee6a4b', '#60c4b2', '#973895']
       }
     });
+
+    //CHART 2
+    <div id="shootingsByTypeChart"></div>
+    var chart2 = c3.generate({
+ bindto: '#shootingsByTypeChart',
+ data: {
+   columns: [
+     ['Targeted', 130],
+     ['indiscriminate', 42],
+     ['Accidental', 25],
+     ['Targeted and indiscriminate', 5],
+     ['Public suicide', 4],
+     ['Unclear', 3],
+     ['hostage suicide', 2],
+     ['Accidental or targeted', 2],
+     ['Public suicide (attempted)', 1]
+   ],
+   type: 'bar'
+ },
+ color: {
+   pattern: ['#2a8dc5', '#455380', '#ee6a4b', '#60c4b2', '#973895', '#fae255', '#af3d46', '#f8bb63', '#818281']
+ }
+});
+
     </script>
 
 
-<!-- Start of Bar Graph -->
-  <div id="shootingsByTypeChart"></div>
 
-  var chart2 = c3.generate({
-    bindto: '#shootingsByTypeChart',
-    data: {
-
-     var chart2 = c3.generate({
-      bindto: '#shootingsByTypeChart',
-      data: {
-        columns: [
-          ['Targeted', 130],
-          ['indiscriminate', 42],
-          ['Accidental', 25],
-          ['Targeted and indiscriminate', 5],
-          ['Public suicide', 4],
-          ['Unclear', 3],
-          ['hostage suicide', 2],
-          ['Accidental or targeted', 2],
-          ['Public suicide (attempted)', 1]
-        ],
-        type: 'bar'
-    },
-    color: {
-      pattern: ['#2a8dc5', '#455380', '#ee6a4b', '#60c4b2', '#973895', '#fae255', '#af3d46', '#f8bb63', '#818281']
-    }
-  });
 
 
 
