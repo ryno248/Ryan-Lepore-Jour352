@@ -126,31 +126,36 @@
         pattern: ['#2a8dc5', '#455380', '#ee6a4b', '#60c4b2', '#973895']
       }
     });
-
-    //CHART 2
-    <div id="shootingsByTypeChart"></div>
-    var chart2 = c3.generate({
- bindto: '#shootingsByTypeChart',
- data: {
-   columns: [
-     ['Targeted', 130],
-     ['indiscriminate', 42],
-     ['Accidental', 25],
-     ['Targeted and indiscriminate', 5],
-     ['Public suicide', 4],
-     ['Unclear', 3],
-     ['hostage suicide', 2],
-     ['Accidental or targeted', 2],
-     ['Public suicide (attempted)', 1]
-   ],
-   type: 'bar'
- },
- color: {
-   pattern: ['#2a8dc5', '#455380', '#ee6a4b', '#60c4b2', '#973895', '#fae255', '#af3d46', '#f8bb63', '#818281']
- }
-});
-
     </script>
+
+
+
+      <div id="shootingsByTypeChart"></div>
+        <!-- c3 script-->
+       <script type="text/javascript">
+       //CHART 2
+            var chart2 = c3.generate({
+             bindto: '#shootingsByTypeChart',
+             data: {
+               columns: [
+                 ['Targeted', 130],
+                 ['indiscriminate', 42],
+                 ['Accidental', 25],
+                 ['Targeted and indiscriminate', 5],
+                 ['Public suicide', 4],
+                 ['Unclear', 3],
+                 ['hostage suicide', 2],
+                 ['Accidental or targeted', 2],
+                 ['Public suicide (attempted)', 1]
+               ],
+               type: 'bar'
+             },
+             color: {
+               pattern: ['#2a8dc5', '#455380', '#ee6a4b', '#60c4b2', '#973895', '#fae255', '#af3d46', '#f8bb63', '#818281']
+             }
+           });
+       </script>
+
 
 
 
