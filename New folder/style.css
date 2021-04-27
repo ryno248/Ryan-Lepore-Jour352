@@ -12,8 +12,9 @@
 .byline {
   font-size: 1em;
   text-transform:uppercase;
-  text-align: right;
+  text-align: left;
   font-family: 'Montserrat', sans-serif;
+  font-style: italic;
 }
 
 p {
