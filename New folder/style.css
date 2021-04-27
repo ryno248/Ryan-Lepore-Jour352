@@ -42,7 +42,8 @@ h2 {
   font-size: 1em;
   text-align: left;
   font-weight: 700;
-  margin-bottom: 3px;
+  margin-bottom: 1px;
+  padding-top: 10px;
 }
 
 #mainphoto{
