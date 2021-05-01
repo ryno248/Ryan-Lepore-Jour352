@@ -1,11 +1,23 @@
 /* Main Style */
-
+.container {
+  margin-right: 30px;
+  margin-left: 30;
+}
 /* Headline Style */
 .headline {
   font-size: 3em;
   font-weight: 700;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
+}
+
+/* Source Style */
+.source {
+  margin-top: 2px;
+  margin-bottom: 25px;
+  margin-right: 375px;
+  margin-left: 0;
+  font-size: 10px;
 }
 
 .subheadline {
@@ -64,14 +76,6 @@ text-align: center;
   margin-right: 398px;
 }
 
-/* Source Style */
-.source {
-  margin-top: 2px;
-  margin-bottom: 25px;
-  margin-right: 375px;
-  margin-left: 0;
-  font-size: 10px;
-}
 
 #links{
 text-align: center;
