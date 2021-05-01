@@ -20,16 +20,16 @@
 }
 
 .subheadline {
-  font-size: 1em;
-  font-weight: 250;
-  text-align: center;
+  font-size: 2em;
+  font-weight: 450;
+  text-align: left;
   font-family: 'Montserrat', sans-serif;
 }
 
 .byline {
   font-size: 1em;
   text-transform:uppercase;
-  text-align: center;
+  text-align: left;
   font-family: 'Montserrat', sans-serif;
   font-style: italic;
 }
@@ -87,7 +87,7 @@ blockquote {
   margin-bottom: 30px;
   margin-left: 60;
   margin-right: 60;
-  color: red;
+  color: #00D9BC;
   font-style: oblique;
   font: 16/24px normal helvetica, sans-serif;
   padding-left: 105px;
